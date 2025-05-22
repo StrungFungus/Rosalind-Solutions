@@ -9,7 +9,7 @@ a = input("Input first strand:")
 b = input("Input second strand:")
 print(point_mutation_counter(a, b))
 
-# class TestRabbitsFunction(unittest.TestCase):
+# class TestMutationCounter(unittest.TestCase):
 #
 #     def test_sample_case(self):
 #         self.assertEqual(point_mutation_counter("GAGCCTACTAACGGGAT", "CATCGTAATGACGGCCT"), 7)
